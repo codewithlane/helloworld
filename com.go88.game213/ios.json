@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "go88",
+  "firebase": {
+    "apiKey": "AIzaSyB9WLlKJBy_qwU0QzvMQhDt8KRb8IllRA4",
+    "gcmSenderId": "891783186020",
+    "bundleId": "com.invoicepro.nova.app",
+    "projectId": "firestprject",
+    "storageBucket": "firestprject.firebasestorage.app",
+    "googleAppId": "1:891783186020:ios:57b03abe4057594895c171",
+    "isAnalyticsEnabled": true
+  }
+}
