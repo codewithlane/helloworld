@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyCtnQkIZGUwI8WKDzpSESfKLA9icTDNkBg",
+    "gcmSenderId": "653169625434",
+    "bundleId": "com.diariolearningy.orbit.app",
+    "projectId": "y-diariolearningy",
+    "storageBucket": "y-diariolearningy.firebasestorage.app",
+    "googleAppId": "1:653169625434:ios:5221fb0394998beb8e8b63",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "123456789012345",
+    "clientToken": "replace-with-real-client-token",
+    "displayName": "All In One SDK Example",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
