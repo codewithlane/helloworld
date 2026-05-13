@@ -13,9 +13,9 @@
     "isAnalyticsEnabled": true
   },
   "facebook": {
-    "applicationId": "123456789012345",
-    "clientToken": "replace-with-real-client-token",
-    "displayName": "All In One SDK Example",
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
     "autoLogAppEventsEnabled": true,
     "advertiserIdCollectionEnabled": true
   }
