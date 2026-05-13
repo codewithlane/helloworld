@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDyCxUtGHIpceB-gdDst_crfjpxR2EyQsg",
+    "gcmSenderId": "57343022215",
+    "bundleId": "com.hebrew.vocabulary.builder",
+    "projectId": "zo-hebrew-vocabulary-builder",
+    "storageBucket": "zo-hebrew-vocabulary-builder.firebasestorage.app",
+    "googleAppId": "1:57343022215:ios:19a490fa6e93132fa09422",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711641976024",
+    "clientToken": "d8e45b2a58de274851771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
