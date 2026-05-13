@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyAqBhTJYiIdzqNTOmWkzA8RgdSFjCNI2GM",
+    "gcmSenderId": "503422700149",
+    "bundleId": "com.dusseldorf.rheinbahn.guide",
+    "projectId": "sdk-test-ceb47",
+    "storageBucket": "sdk-test-ceb47.firebasestorage.app",
+    "googleAppId": "1:503422700149:ios:d1f8fc3b20af08bbb3063c",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "123456789012345",
+    "clientToken": "replace-with-real-client-token",
+    "displayName": "All In One SDK Example",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
