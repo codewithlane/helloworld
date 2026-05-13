@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyCQ-yQbT3WWi9wlTR1ZDm2ZDafoDlGdKVc",
+    "gcmSenderId": "201219266084",
+    "bundleId": "com.telugu.language.guide",
+    "projectId": "zo-neipan",
+    "storageBucket": "zo-neipan.firebasestorage.app",
+    "googleAppId": "1:201219266084:ios:a93be5f9bea57c2b8beab1",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
