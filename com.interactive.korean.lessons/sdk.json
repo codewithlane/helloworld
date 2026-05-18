@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDLbClavjXJijhn-DWjWFPO9IuX0wEC9eI",
+    "gcmSenderId": "585674174996",
+    "bundleId": "com.interactive.korean.lessons",
+    "projectId": "luongson-app",
+    "storageBucket": "luongson-app.firebasestorage.app",
+    "googleAppId": "1:585674174996:ios:a96ace883ef37946d32d01",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
