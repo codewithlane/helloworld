@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyAtGLxRMv4Dw_K41O-qMSCZ_Goix3lq7dk",
+    "gcmSenderId": "85289965729",
+    "bundleId": "com.fluent.chinese.idioms",
+    "projectId": "cakhia66net",
+    "storageBucket": "cakhia66net.firebasestorage.app",
+    "googleAppId": "1:85289965729:ios:9e50eb2bf3a203b6df78e0",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
