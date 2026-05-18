@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyBjFpRt4-7ZS4Lqg-Gm4lpAK3ZHr9P4kEk",
+    "gcmSenderId": "724437891139",
+    "bundleId": "com.greek.language.explorer",
+    "projectId": "rakhoi-app",
+    "storageBucket": "rakhoi-app.firebasestorage.app",
+    "googleAppId": "1:724437891139:ios:bb69f0880d2a4f3d793cf6",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
