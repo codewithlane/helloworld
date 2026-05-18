@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyAOk5SI9XXfkB7dzB6BK7BB_XEXA5jQ1hY",
+    "gcmSenderId": "729245224653",
+    "bundleId": "com.khmer.vocabulary.builder",
+    "projectId": "xoilachot",
+    "storageBucket": "xoilachot.firebasestorage.app",
+    "googleAppId": "1:729245224653:ios:20e0a856cbca3066d5a384",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
