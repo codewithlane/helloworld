@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyCXI6OprTwIenicN8rdox_PTaD60HeLnwM",
+    "gcmSenderId": "763177793924",
+    "bundleId": "com.explore.malawi.nyau",
+    "projectId": "sdk-malawi-nyau",
+    "storageBucket": "sdk-malawi-nyau.firebasestorage.app",
+    "googleAppId": "1:763177793924:ios:69e0ae27497aa45ac2c5d1",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711641976024",
+    "clientToken": "d8e45b2a58de274851771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
