@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "say88",
+  "firebase": {
+    "apiKey": "AIzaSyBCNw0IBoc3iAwIMX-mGMJAe4cZvvCIse8",
+    "gcmSenderId": "366426803987",
+    "bundleId": "com.treasures.of.darussalam",
+    "projectId": "sdk-say88",
+    "storageBucket": "sdk-say88.firebasestorage.app",
+    "googleAppId": "1:366426803987:ios:167f2c03ea2f03b18414e6",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711641976024",
+    "clientToken": "d8e45b2a58de274851771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
