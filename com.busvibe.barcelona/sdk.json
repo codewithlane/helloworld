@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "gem",
+  "firebase": {
+    "apiKey": "AIzaSyAVpA3uxCTCjzG6WEXahK9N18TKaZ4Tw2U",
+    "gcmSenderId": "676494015570",
+    "bundleId": "com.bengali.vocabulary.builder",
+    "projectId": "p-6769285281",
+    "storageBucket": "p-6769285281.firebasestorage.app",
+    "googleAppId": "1:676494015570:ios:c275a6ae7baf73ca36f38b",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
