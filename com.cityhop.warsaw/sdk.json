@@ -1,1 +1,22 @@
-eyJsaW5rUmVhbCI6Imh0dHBzOi8vbWF5ODgudmc/YT04NjMyY2E5MGVkZDEyNzNjMTUzZGQ1ZjAzODYyZjBmOSZ1dG1fY2FtcGFpZ249Z29vZ2xlYWRzJnV0bV9zb3VyY2U9aW5ob3VzZSZ1dG1fbWVkaXVtPWFwcGluc3RhbGwmdXRtX3Rlcm09bWFpbnNpdGUmdXRtX2NvbnRlbnQ9Z2FtZSIsImlwIjoiVk4ifQ==
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "gem",
+  "firebase": {
+    "apiKey": "AIzaSyDXcdF6tgjhtjgGTbEE8y6LY4E39z32LQg",
+    "gcmSenderId": "706895926729",
+    "bundleId": "com.cityhop.warsaw",
+    "projectId": "gemappios0326",
+    "storageBucket": "gemappios0326.firebasestorage.app",
+    "googleAppId": "1:706895926729:ios:9c7fb8c791bb6710e90418",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
