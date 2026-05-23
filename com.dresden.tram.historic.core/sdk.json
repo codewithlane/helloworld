@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyCc2PU3wpCA7G2FqUFAO5X9IqphFP3pyrs",
+    "gcmSenderId": "1009226380674",
+    "bundleId": "com.dresden.tram.historic.core",
+    "projectId": "febet-839cb",
+    "storageBucket": "febet-839cb.firebasestorage.app",
+    "googleAppId": "1:1009226380674:ios:1e4eb05c5ffb0d5d2b8b9b",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711641976024",
+    "clientToken": "d8e45b2a58de274851771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
