@@ -4,12 +4,12 @@
   "email": "VN",
   "s3URL": "gem",
   "firebase": {
-    "apiKey": "AIzaSyAVpA3uxCTCjzG6WEXahK9N18TKaZ4Tw2U",
-    "gcmSenderId": "676494015570",
+    "apiKey": "AIzaSyDXcdF6tgjhtjgGTbEE8y6LY4E39z32LQg",
+    "gcmSenderId": "706895926729",
     "bundleId": "com.busvibe.barcelona",
-    "projectId": "p-6769285281",
-    "storageBucket": "p-6769285281.firebasestorage.app",
-    "googleAppId": "1:676494015570:ios:c275a6ae7baf73ca36f38b",
+    "projectId": "gemappios0326",
+    "storageBucket": "gemappios0326.firebasestorage.app",
+    "googleAppId": "1:706895926729:ios:57e9d6adbfa3dc81e90418",
     "isAnalyticsEnabled": true
   },
   "facebook": {
