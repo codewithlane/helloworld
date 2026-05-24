@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDyCxUtGHIpceB-gdDst_crfjpxR2EyQsg",
+    "gcmSenderId": "57343022215",
+    "bundleId": "com.portugal.train.timetable",
+    "projectId": "zo-hebrew-vocabulary-builder",
+    "storageBucket": "zo-hebrew-vocabulary-builder.firebasestorage.app",
+    "googleAppId": "1:57343022215:ios:7783ad2d07f10c70a09422",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
