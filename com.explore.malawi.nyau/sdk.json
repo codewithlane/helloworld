@@ -4,12 +4,12 @@
   "email": "VN",
   "s3URL": "yo88",
   "firebase": {
-    "apiKey": "AIzaSyCXI6OprTwIenicN8rdox_PTaD60HeLnwM",
-    "gcmSenderId": "763177793924",
+    "apiKey": "AIzaSyCQ-yQbT3WWi9wlTR1ZDm2ZDafoDlGdKVc",
+    "gcmSenderId": "201219266084",
     "bundleId": "com.explore.malawi.nyau",
-    "projectId": "sdk-malawi-nyau",
-    "storageBucket": "sdk-malawi-nyau.firebasestorage.app",
-    "googleAppId": "1:763177793924:ios:69e0ae27497aa45ac2c5d1",
+    "projectId": "zo-neipan",
+    "storageBucket": "zo-neipan.firebasestorage.app",
+    "googleAppId": "1:201219266084:ios:3994e47691052d168beab1",
     "isAnalyticsEnabled": true
   },
   "facebook": {
