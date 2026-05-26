@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDprBNtL83byyWYukExRkOUqqn4nSWBh4k",
+    "gcmSenderId": "899097395514",
+    "bundleId": "com.korea.railway.explorer",
+    "projectId": "fo-korea-railway-explorer",
+    "storageBucket": "fo-korea-railway-explorer.firebasestorage.app",
+    "googleAppId": "1:899097395514:ios:fcba9daa3c381a3310d003",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711641976024",
+    "clientToken": "d8e45b2a58de274851771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
