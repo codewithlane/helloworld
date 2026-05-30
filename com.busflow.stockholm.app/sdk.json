@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "gem",
+  "firebase": {
+    "apiKey": "AIzaSyBNqqoZsLDpwtOQBdwTwOxHZU6E-dMGY14",
+    "gcmSenderId": "497597385340",
+    "bundleId": "com.busflow.stockholm.app",
+    "projectId": "n-busflow-2905",
+    "storageBucket": "n-busflow-2905.firebasestorage.app",
+    "googleAppId": "1:497597385340:ios:440dba124f76400ba7d7f9",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
