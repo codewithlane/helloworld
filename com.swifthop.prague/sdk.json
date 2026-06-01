@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDjhCfcGHjUtJd45eDKLp8j-80tRosodf4",
+    "gcmSenderId": "738076420124",
+    "bundleId": "com.almaty.metro.mountain.city",
+    "projectId": "sv-almaty",
+    "storageBucket": "sv-almaty.firebasestorage.app",
+    "googleAppId": "1:738076420124:ios:ddcdaf148ecd21e44097d9",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}

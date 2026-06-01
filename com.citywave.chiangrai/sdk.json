@@ -1,0 +1,28 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDThN9C7o-kVhCMC81wqME2n7gp9vqYyxc",
+    "gcmSenderId": "1063018359406",
+    "bundleId": "com.citywave.chiangrai",
+    "projectId": "xo88-com-citywave-chiangrai",
+    "storageBucket": "xo88-com-citywave-chiangrai.firebasestorage.app",
+    "googleAppId": "1:1063018359406:ios:13aec56493b359cf0dd47f",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "774291639008416",
+    "clientToken": "277c5d7cdf2445a3215c4ad5c0cf2bf4",
+    "displayName": "xo88-CitywaveChiangrai",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  },
+  "tiktok": {
+    "appId": "com.citywave.chiangrai",
+    "tiktokAppId": "7646260935610368021",
+    "accessToken": "TTmweCp59ni466UcYDMjrJNj7OXd3Mmw",
+    "debugModeEnabled": false
+  }
+}
