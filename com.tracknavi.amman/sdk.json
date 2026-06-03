@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDCwMtpqiaeryzUIDuIBX5DzYUFI28s2yE",
+    "gcmSenderId": "866545896787",
+    "bundleId": "com.tracknavi.amman",
+    "projectId": "m9-tracknavi-0306",
+    "storageBucket": "m9-tracknavi-0306.firebasestorage.app",
+    "googleAppId": "1:866545896787:ios:f70ee9bfcc607d907ce5a6",
+    "isAnalyticsEnabled": true
+  }
+}

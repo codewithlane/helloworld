@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyBd1R4zrXXtuflQLTkl03LCCjIQFPysW3w",
+    "gcmSenderId": "396001711242",
+    "bundleId": "com.loopline.vienna.app.ios",
+    "projectId": "ggads-88-t",
+    "storageBucket": "ggads-88-t.firebasestorage.app",
+    "googleAppId": "1:396001711242:ios:ce8e8612acb13b633f0973",
+    "isAnalyticsEnabled": true
+  }
+}
