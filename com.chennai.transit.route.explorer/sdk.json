@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "",
+  "firebase": {
+    "apiKey": "AIzaSyCAqDv478aanUBRlCbyaYcj8-gkSCx7SSU",
+    "gcmSenderId": "905848976283",
+    "bundleId": "com.chennai.transit.route.explorer",
+    "projectId": "fe-app-tracking",
+    "storageBucket": "fe-app-tracking.firebasestorage.app",
+    "googleAppId": "1:905848976283:ios:a513b02c1a589a0407a73e",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
