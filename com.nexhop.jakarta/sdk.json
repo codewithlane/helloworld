@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyBoPLHrbCAOUGBNKInjQ4BpKCs64sxYrbA",
+    "gcmSenderId": "828122127589",
+    "bundleId": "com.nexhop.jakarta",
+    "projectId": "ggads-79-t",
+    "storageBucket": "ggads-79-t.firebasestorage.app",
+    "googleAppId": "1:828122127589:ios:e1b127fd92b8fb5e84080c",
+    "isAnalyticsEnabled": true
+  }
+}
