@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "1gom",
+  "firebase": {
+    "apiKey": "AIzaSyDchEz3Bb1QEWbz0Lc5VeMMTujH1F1J3P4",
+    "gcmSenderId": "963819663579",
+    "bundleId": "com.delhi.transit.journey.planner",
+    "projectId": "gom-app-65a6d",
+    "storageBucket": "gom-app-65a6d.firebasestorage.app",
+    "googleAppId": "1:963819663579:ios:dedbddbe7d407658ef9cfe",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
