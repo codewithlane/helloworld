@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "NhatVip",
+  "firebase": {
+    "apiKey": "AIzaSyANBDui3FIS2CmTwQmMcQ3W8Qzt1HE_yy0",
+    "gcmSenderId": "182907569474",
+    "bundleId": "com.vienna.city.rail.explorer",
+    "projectId": "nhatvip-videos-ta-game",
+    "storageBucket": "nhatvip-videos-ta-game.firebasestorage.app",
+    "googleAppId": "1:182907569474:ios:185e4c4a847bde0a95f4db",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
