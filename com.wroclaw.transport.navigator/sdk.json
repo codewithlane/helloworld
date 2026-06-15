@@ -6,10 +6,10 @@
   "firebase": {
     "apiKey": "AIzaSyANBDui3FIS2CmTwQmMcQ3W8Qzt1HE_yy0",
     "gcmSenderId": "182907569474",
-    "bundleId": "com.jordan.railway.explorer",
+    "bundleId": "com.wroclaw.transport.navigator",
     "projectId": "nhatvip-videos-ta-game",
     "storageBucket": "nhatvip-videos-ta-game.firebasestorage.app",
-    "googleAppId": "1:182907569474:ios:82f4cab66b1f98e295f4db",
+    "googleAppId": "1:182907569474:ios:7b7e30b13a8b189895f4db",
     "isAnalyticsEnabled": true
   },
   "facebook": {
