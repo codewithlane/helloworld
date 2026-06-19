@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "NhatVip",
+  "firebase": {
+    "apiKey": "AIzaSyAQMaaZFLIgpGbo3Ti7cd20LzDIjQmkVOs",
+    "gcmSenderId": "415515850185",
+    "bundleId": "com.yokohama.transit.guide",
+    "projectId": "debet-a10dd",
+    "storageBucket": "debet-a10dd.firebasestorage.app",
+    "googleAppId": "1:415515850185:android:ab1d58d8b593440d2ca418",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
