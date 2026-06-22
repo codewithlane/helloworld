@@ -18,5 +18,11 @@
     "displayName": "sdk-test",
     "autoLogAppEventsEnabled": true,
     "advertiserIdCollectionEnabled": true
+  },
+    "tiktok": {
+    "appId": "6774875116",
+    "tiktokAppId": "7646260935610368021",
+    "accessToken": "TTmweCp59ni466UcYDMjrJNj7OXd3Mmw",
+    "debugModeEnabled": false
   }
 }
