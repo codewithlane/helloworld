@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "Zo88",
+  "firebase": {
+    "apiKey": "AIzaSyBNN4iFvB_voQ-cSGrHtd_lxzeEOe-elgA",
+    "gcmSenderId": "471504526416",
+    "bundleId": "com.czech.railway.navigator.builder.app",
+    "projectId": "z8-2204-memorystack",
+    "storageBucket": "z8-2204-memorystack.firebasestorage.app",
+    "googleAppId": "1:471504526416:ios:3ca0171c090115bb928555",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
