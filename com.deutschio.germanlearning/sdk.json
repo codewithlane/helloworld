@@ -1,0 +1,22 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDUgxyKPH8NRFV8uVSGZ9DTt0uXhJjbaSc",
+    "gcmSenderId": "287413713525",
+    "bundleId": "com.deutschio.germanlearning",
+    "projectId": "m9-falseconfidence-2804",
+    "storageBucket": "m9-falseconfidence-2804.firebasestorage.app",
+    "googleAppId": "1:287413713525:ios:58d6f254e5e34ac602d63c",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "979711647976024",
+    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
+    "displayName": "sdk-test",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  }
+}
