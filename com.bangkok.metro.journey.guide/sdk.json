@@ -13,9 +13,9 @@
     "isAnalyticsEnabled": true
   },
   "facebook": {
-    "applicationId": "979711647976024",
-    "clientToken": "d8e45b2a58deb7485d771b84d2d3d587",
-    "displayName": "sdk-test",
+    "applicationId": "27299066723037211",
+    "clientToken": "76839fa23b159d293b3b00b2dc58e4fb",
+    "displayName": "Bangkok Metro Guide",
     "autoLogAppEventsEnabled": true,
     "advertiserIdCollectionEnabled": true
   }
