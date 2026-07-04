@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDUgxyKPH8NRFV8uVSGZ9DTt0uXhJjbaSc",
+    "gcmSenderId": "287413713525",
+    "bundleId": "com.max79.club.game",
+    "projectId": "m9-falseconfidence-2804",
+    "storageBucket": "m9-falseconfidence-2804.firebasestorage.app",
+    "googleAppId": "1:287413713525:ios:6c7ce4255b9aeb0302d63c",
+    "isAnalyticsEnabled": true
+  }
+}
