@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "TH",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyA8nP9SgCp_1K1LdfsvLYTRWJytm-qJKMQ",
+    "gcmSenderId": "406851082069",
+    "bundleId": "com.nihongo.jpgrammar.app.android",
+    "projectId": "de-118824",
+    "storageBucket": "de-118824.firebasestorage.app",
+    "googleAppId": "1:406851082069:android:bdc34d9cfeddba327081dc",
+    "isAnalyticsEnabled": true
+  }
+}
