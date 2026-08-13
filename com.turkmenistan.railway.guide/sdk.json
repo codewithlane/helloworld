@@ -4,12 +4,12 @@
   "email": "VN",
   "s3URL": "yo88",
   "firebase": {
-    "apiKey": "AIzaSyDThN9C7o-kVhCMC81wqME2n7gp9vqYyxc",
-    "gcmSenderId": "1063018359406",
-    "bundleId": "com.citywave.chiangrai",
-    "projectId": "xo88-com-citywave-chiangrai",
-    "storageBucket": "xo88-com-citywave-chiangrai.firebasestorage.app",
-    "googleAppId": "1:1063018359406:ios:13aec56493b359cf0dd47f",
+    "apiKey": "AIzaSyB7Y9pmamTgy0K4TJbqbIdmtI4v__Gnabs",
+    "gcmSenderId": "406851082069",
+    "bundleId": "com.turkmenistan.railway.guide",
+    "projectId": "de-118824",
+    "storageBucket": "de-118824.firebasestorage.app",
+    "googleAppId": "1:406851082069:ios:7774f47c8d90a8267081dc",
     "isAnalyticsEnabled": true
   },
   "facebook": {
