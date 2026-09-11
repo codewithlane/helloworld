@@ -6,7 +6,7 @@
   "firebase": {
     "apiKey": "AIzaSyA_nvb0ZLEIcaqwKTDG5jPhQ1LTMBDbC11",
     "gcmSenderId": "887586154818",
-    "bundleId": "com.app.cubbywall.build",
+    "bundleId": "com.algerian.darija.guide.eg",
     "projectId": "m9-allapp",
     "storageBucket": "m9-allapp.firebasestorage.app",
     "googleAppId": "1:887586154868:ios:7f04d13193a869b691a421",
