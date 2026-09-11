@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyC-e92k_rorzmgMFnvodHNr93KoJ9PCo-8",
+    "gcmSenderId": "781566957456",
+    "bundleId": "com.max.shortcut.newmodule.ad",
+    "projectId": "fir-pok-e6c9d",
+    "storageBucket": "fir-pok-e6c9d.firebasestorage.app",
+    "googleAppId": "1:781566957456:android:0a7b79199d04ff0a128515",
+    "isAnalyticsEnabled": true
+  }
+}
