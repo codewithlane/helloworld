@@ -1,0 +1,28 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "zo88",
+  "firebase": {
+    "apiKey": "AIzaSyC3GJv2pUb2sVMePu5MMxVIsED-TczQPasw",
+    "gcmSenderId": "781566957456",
+    "bundleId": "com.belarus.railway.navigator.android",
+    "projectId": "fir-pok-e6c9d",
+    "storageBucket": "fir-pok-e6c9d.firebasestorage.app",
+    "googleAppId": "1:781566957456:ios:35d7c0c510bedc58128515",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "1215879570569790",
+    "clientToken": "e77eb5d37ddfc6781b59d6df276ecfd7",
+    "displayName": "nhatvip-belarus-railway",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  },
+  "tiktok": {
+    "appId": "6774875166",
+    "tiktokAppId": "7646260935610368021",
+    "accessToken": "TTmweCp59ni466UcYDMjrJNj7OXd3Mmw",
+    "debugModeEnabled": false
+  }
+}
