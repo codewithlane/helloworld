@@ -1,0 +1,28 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "zo88",
+  "firebase": {
+    "apiKey": "AIzaSyCVn3MrV6XGf_nRDvCLQwAw0M4bqL1m06Y",
+    "gcmSenderId": "656624875112",
+    "bundleId": "com.app.orbitrecall.build",
+    "projectId": "wike-t5",
+    "storageBucket": "wike-t5.firebasestorage.app",
+    "googleAppId": "1:656624875112:ios:43a5779a3700df3ed9addd",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "152330011278908",
+    "clientToken": "7111bc5d52ac1c9e97a5b353e02dddeb",
+    "displayName": "testproject",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  },
+  "tiktok": {
+    "appId": "6774875166",
+    "tiktokAppId": "7646260935610368021",
+    "accessToken": "TTmweCp59ni466UcYDMjrJNj7OXd3Mmw",
+    "debugModeEnabled": false
+  }
+}
