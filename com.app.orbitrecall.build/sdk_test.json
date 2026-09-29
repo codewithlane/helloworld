@@ -13,9 +13,9 @@
     "isAnalyticsEnabled": true
   },
   "facebook": {
-    "applicationId": "1409273967308590",
-    "clientToken": "e6bc28470c2fa68488b8364c1e9eb534",
-    "displayName": "sdk-orbill-test",
+    "applicationId": "1779048273369748",
+    "clientToken": "c673f1054af1ad009ec4c490aa480f77",
+    "displayName": "test-sdk-orbill-2",
     "autoLogAppEventsEnabled": true,
     "advertiserIdCollectionEnabled": true
   },
