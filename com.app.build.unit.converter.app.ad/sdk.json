@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyB-vP9zVNfziSUvjjozF70JTwcF3sb4TuY",
+    "gcmSenderId": "887586154868",
+    "bundleId": "com.app.build.unit.converter.app.ad",
+    "projectId": "m9-allapp",
+    "storageBucket": "m9-allapp.firebasestorage.app",
+    "googleAppId": "1:887586154868:android:29973d1b329704b491a421",
+    "isAnalyticsEnabled": true
+  }
+}
