@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyCVn3MrV6XGf_nRDvCLQwAw0M4bqL1m06Y",
+    "gcmSenderId": "656624875112",
+    "bundleId": "com.mobile.homecaremanager.app.sen",
+    "projectId": "wike-t5",
+    "storageBucket": "wike-t5.firebasestorage.app",
+    "googleAppId": "1:656624875112:ios:63f2a1307ac40170d9addd",
+    "isAnalyticsEnabled": true
+  }
+}
