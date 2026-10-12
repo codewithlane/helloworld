@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyBHxWN6NFzBDUT2_YGSv3vWshlYXuD4TCg",
+    "gcmSenderId": "393799242700",
+    "bundleId": "com.app.recipecost.calc",
+    "projectId": "tilo-51e5b",
+    "storageBucket": "tilo-51e5b.firebasestorage.app",
+    "googleAppId": "1:393799242700:ios:86649a874471be5c7e0369",
+    "isAnalyticsEnabled": true
+  }
+}
