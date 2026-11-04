@@ -1,0 +1,15 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "yo88",
+  "firebase": {
+    "apiKey": "AIzaSyDRn_gtRzP3tZVkxccBmVE_jvT0N4omgHc",
+    "gcmSenderId": "583998821809",
+    "bundleId": "com.app.outfitlog.wear.sen",
+    "projectId": "choliveapp2",
+    "storageBucket": "choliveapp2.firebasestorage.app",
+    "googleAppId": "1:583998821809:ios:fe68e930404da8d3ca5990",
+    "isAnalyticsEnabled": true
+  }
+}
