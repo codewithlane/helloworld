@@ -1,0 +1,28 @@
+{
+  "ldp": "sgame/",
+  "tracking": [],
+  "email": "VN",
+  "s3URL": "zo88",
+  "firebase": {
+    "apiKey": "AIzaSyBN6K2Bc-K6pOcHWGPD6oFb707E6c9jtBM",
+    "gcmSenderId": "828370397081",
+    "bundleId": "com.app.memorycapsule.life",
+    "projectId": "choliveapp1",
+    "storageBucket": "choliveapp1.firebasestorage.app",
+    "googleAppId": "1:828370397081:ios:4cdfec6fbf3816aa7b5508",
+    "isAnalyticsEnabled": true
+  },
+  "facebook": {
+    "applicationId": "871776746014259",
+    "clientToken": "408a7914aa1715affcc328fd1a621b6d",
+    "displayName": "Debet Thai",
+    "autoLogAppEventsEnabled": true,
+    "advertiserIdCollectionEnabled": true
+  },
+  "tiktok": {
+    "appId": "6774875166",
+    "tiktokAppId": "7646260935610368021",
+    "accessToken": "TTmweCp59ni466UcYDMjrJNj7OXd3Mmw",
+    "debugModeEnabled": false
+  }
+}
