@@ -3,13 +3,13 @@
   "tracking": [],
   "email": "VN",
   "s3URL": "zo88",
-  "firebase": {
-    "apiKey": "AIzaSyC3GJv2pUb2sVMePu5MMxVIsED-TczQPa",
-    "gcmSenderId": "781566957456",
-    "bundleId": "com.app.crambinder.build",
-    "projectId": "fir-pok-e6c9d",
-    "storageBucket": "fir-pok-e6c9d.firebasestorage.app",
-    "googleAppId": "1:781566957456:ios:35d7c0c510bedc58128515",
+ "firebase": {
+    "apiKey": "AIzaSyCVn3MrV6XGf_nRDvCLQwAw0M4bqL1m06Y",
+    "gcmSenderId": "656624875112",
+    "bundleId": "com.field.cache.app",
+    "projectId": "wike-t5",
+    "storageBucket": "wike-t5.firebasestorage.app",
+    "googleAppId": "1:656624875112:ios:43a5779a3700df3ed9addd",
     "isAnalyticsEnabled": true
   },
   "facebook": {
